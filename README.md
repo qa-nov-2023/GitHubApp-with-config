@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag - Trigger scan
+# VeraDemo - Blab-a-Gag - Trigger
 
 
 ## About
